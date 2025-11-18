@@ -1,0 +1,11 @@
+Package: m6APrediction
+Title: m6A Site Prediction Using Machine Learning
+Version: 1.0.0
+Description: A package for predicting m6A modification sites from genomic features using random forest.
+License: MIT
+Depends: R (>= 3.5.0)
+Imports: randomForest
+Maintainer: Ziyuan.Wang23 <Ziyuan.Wang23@student.xjtlu.edu.cn>
+Author: Ziyuan.Wangi23 <Ziyuan.Wang.Rui23@student.xjtlu.edu.cn>
+Encoding: UTF-8
+RoxygenNote: 7.3.3
