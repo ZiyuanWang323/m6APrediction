@@ -51,4 +51,5 @@ single_out <- prediction_single(
   cutoff          = 0.5
 )
 str(single_out)   # compact view of the returned list
-
+```
+![figure1](fig1.png)
